@@ -1,0 +1,147 @@
+{
+  "navbar": {
+    "inicio": "Hasiera",
+    "nuevaReserva": "Erreserba berria",
+    "misReservas": "Nire erreserbak",
+    "historial": "Erreserben historia",
+    "perfil": "Nire profila",
+    "help": "NilaChat",
+    "actualizaciones": "Egunerapenak",
+    "logout": "Saioa itxi"
+  },
+  "logout": {
+    "message": "Saioa behar bezala itxi da"
+  },
+  "dashboard": {
+    "title": "Administratzailearen Kontrol Panela",
+    "gestionarUsuarios": "Erabiltzaileak Kudeatu",
+    "crearUsuario": "Erabiltzaile Berria Sortu",
+    "gestionarReservas": "Erreserbak Kudeatu",
+    "gestionarMaterial": "Materiala Kudeatu",
+    "historial": "Historia",
+    "estadisticas": "Estatistikak",
+    "documentacion": "Dokumentazioa",
+    "usuarioTitulo": "Erabiltzailearen panela",
+    "nuevaReserva": "Erreserba berria",
+    "misReservas": "Nire erreserbak"
+  },
+  "usuarios": {
+    "titulo": "Erabiltzaileak",
+    "placeholderBuscar": "Bilatu izen edo abizenaren arabera",
+    "botonBuscar": "Bilatu",
+    "botonCrear": "Erabiltzaile berria gehitu",
+    "activos": "Erabiltzaile Aktiboak",
+    "deshabilitados": "Desgaitutako Erabiltzaileak",
+    "correo": "Posta elektronikoa",
+    "estado": "Egoera",
+    "estadoActivo": "Aktibo",
+    "estadoDeshabilitado": "Desgaituta",
+    "verEditar": "Ikusi / Editatu",
+    "noActivos": "Ez dago erabiltzaile aktiborik.",
+    "noDeshabilitados": "Ez dago desgaitutako erabiltzailearik.",
+    "noEncontrados": "Ez da bilaketarekin bat datorren erabiltzailerik aurkitu",
+    "errorCargar": "Errorea erabiltzaileak kargatzean",
+    "errorBusqueda": "Errorea bilaketan",
+    "cargando": "Kargatzen..."
+  },
+  "editarUsuario": {
+    "titulo": "Erabiltzailea Editatu",
+    "nombre": "Izena",
+    "apellido1": "Lehen abizena",
+    "apellido2": "Bigarren abizena",
+    "correo": "Posta elektronikoa",
+    "nuevaContrasena": "Pasahitz berria (Utzi hutsirik pasahitza aldatuko ez bada)",
+    "rol": "Rola",
+    "estado": "Egoera",
+    "cancelar": "Utzi",
+    "eliminar": "Ezabatu",
+    "guardar": "Aldaketak gorde",
+    "confirmarEliminacion": "Ezabaketa baieztatu",
+    "textoConfirmarEliminacion": "Ziur zaude erabiltzaile hau ezabatu nahi duzula? Ekintza hau atzeraezina da.",
+    "eliminarDefinitivo": "Behin betiko ezabatu",
+    "mensajeActualizado": "Erabiltzailea ongi eguneratu da.",
+    "mensajeEliminado": "Erabiltzailea ongi ezabatu da."
+  },
+  "crearUsuario": {
+    "titulo": "Erabiltzaile berria sortu",
+    "nombre": "Izena",
+    "apellido1": "Lehen abizena",
+    "apellido2": "Bigarren abizena",
+    "correo": "Posta elektronikoa",
+    "contrasena": "Pasahitza",
+    "rol": "Rola",
+    "estado": "Egoera",
+    "estadoActivo": "Aktibo",
+    "estadoDeshabilitado": "Desgaituta",
+    "cancelar": "Utzi",
+    "botonCrear": "Erabiltzailea sortu",
+    "mensajeCreado": "Erabiltzailea ongi sortu da",
+    "mensajeError": "Errorea gertatu da erabiltzailea sortzean"
+  },
+  "notfound": {
+    "titulo": "Orrialdea ez da aurkitu",
+    "descripcion": "Bilatzen ari zaren orrialdea ez dago edo lekuz aldatu da.",
+    "boton": "Hasierara itzuli"
+  },
+  "perfil": {
+    "titulo": "Nire profila",
+    "nombre": "Izena",
+    "apellido1": "Lehen abizena",
+    "apellido2": "Bigarren abizena",
+    "correo": "Posta elektronikoa",
+    "rol": "Rola",
+    "cambiarContrasena": "Pasahitza aldatu",
+    "actual": "Oraingo pasahitza",
+    "nueva": "Pasahitz berria",
+    "guardar": "Pasahitza gorde",
+    "guardado": "Pasahitza ondo aldatu da",
+    "error": "Errorea pasahitza aldatzean. Egiaztatu oraingoa."
+  },
+  "estadisticas": {
+    "titulo": "📊 Estatistika Orokorrak",
+    "exportarPDF": "📄 PDFra esportatu",
+    "exportarExcel": "📊 Excela esportatu",
+    "graficoBarras": "Barra-grafikoa",
+    "graficoRecurso": "Baliabideen grafikoa",
+    "detalle": "Baliabidearen arabera xehetasuna",
+    "recurso": "Baliabidea",
+    "total": "Guztira",
+    "cargando": "Estatistikak kargatzen...",
+    "accesoRestringido": "⛔ Sarbide mugatua",
+    "soloAdmins": "Atal hau administratzaileentzako soilik da."
+  },
+  "recursos": {
+    "titulo": "🎯 Baliabideen Kudeaketa",
+    "buscarPlaceholder": "Bilatu izen edo deskribapenaren arabera",
+    "limpiar": "Garbitu",
+    "nuevo": "+ Berria",
+    "tabla": {
+      "id": "ID",
+      "nombre": "Izena",
+      "descripcion": "Deskribapena",
+      "ubicacion": "Kokapena",
+      "total": "Guztira",
+      "disponible": "Eskuragarri",
+      "estado": "Egoera",
+      "acciones": "Ekintzak"
+    },
+    "modal": {
+      "editar": "Baliabidea Editatu",
+      "nuevo": "Baliabide Berria",
+      "nombre": "Izena",
+      "total": "Kopuru osoa",
+      "disponible": "Eskuragarri daudenak",
+      "estado": "Egoera",
+      "activo": "AKTIBOA",
+      "deshabilitado": "DESGAITU",
+      "guardar": "Gorde",
+      "cancelar": "Utzi"
+    },
+    "mensajes": {
+      "errorCampos": "Mesedez, bete beharrezko eremu guztiak.",
+      "guardado": "Aldaketak ondo gorde dira.",
+      "errorGuardar": "Errorea baliabidea gordetzean.",
+      "confirmarEliminar": "Ziur zaude baliabide hau ezabatu nahi duzula?"
+    }
+  }
+}

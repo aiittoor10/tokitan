@@ -1,0 +1,150 @@
+{
+  "navbar": {
+    "inicio": "inicio",
+    "nuevaReserva": "Nueva reserva",
+    "misReservas": "Mis reservas",
+    "historial": "Historial de reservas",
+    "perfil": "Mi perfil",
+    "help": "NilaChat",
+    "actualizaciones": "Actualizaciones",
+    "logout": "Cerrar sesión"
+  },
+  "logout": {
+    "message": "Sesión cerrada correctamente"
+  },
+  "dashboard": {
+    "title": "Panel de Control del Administrador",
+    "gestionarUsuarios": "Gestionar usuarios",
+    "crearUsuario": "Crear nuevo usuario",
+    "gestionarReservas": "Gestionar reservas",
+    "gestionarMaterial": "Gestionar material",
+    "historial": "Historial",
+    "estadisticas": "Estadísticas",
+    "documentacion": "Documentación",
+    "usuarioTitulo": "Panel del usuario",
+    "nuevaReserva": "Nueva reserva",
+    "misReservas": "Mis reservas"
+  },
+  "usuarios": {
+    "titulo": "Usuarios",
+    "placeholderBuscar": "Buscar por nombre o apellido",
+    "botonBuscar": "Buscar",
+    "botonCrear": "Agregar nuevo usuario",
+    "activos": "Usuarios activos",
+    "deshabilitados": "Usuarios deshabilitados",
+    "correo": "Correo electrónico",
+    "estado": "Estado",
+    "estadoActivo": "Activo",
+    "estadoDeshabilitado": "Deshabilitado",
+    "verEditar": "Ver / Editar",
+    "noActivos": "No hay usuarios activos.",
+    "noDeshabilitados": "No hay usuarios deshabilitados.",
+    "noEncontrados": "No se encontraron usuarios con ese criterio",
+    "errorCargar": "Error al cargar los usuarios",
+    "errorBusqueda": "Error en la búsqueda",
+    "cargando": "Cargando..."
+  },
+  "editarUsuario": {
+    "titulo": "Editar Usuario",
+    "nombre": "Nombre",
+    "apellido1": "Primer apellido",
+    "apellido2": "Segundo apellido",
+    "correo": "Correo electrónico",
+    "nuevaContrasena": "Nueva contraseña (déjalo vacío si no deseas cambiarla)",
+    "rol": "Rol",
+    "estado": "Estado",
+    "cancelar": "Cancelar",
+    "eliminar": "Eliminar",
+    "guardar": "Guardar cambios",
+    "confirmarEliminacion": "Confirmar eliminación",
+    "textoConfirmarEliminacion": "¿Estás seguro de que deseas eliminar este usuario? Esta acción no se puede deshacer.",
+    "eliminarDefinitivo": "Eliminar definitivamente",
+    "mensajeActualizado": "Usuario actualizado correctamente.",
+    "mensajeEliminado": "Usuario eliminado correctamente."
+  },
+  "crearUsuario": {
+    "titulo": "Crear nuevo usuario",
+    "nombre": "Nombre",
+    "apellido1": "Primer apellido",
+    "apellido2": "Segundo apellido",
+    "correo": "Correo electrónico",
+    "contrasena": "Contraseña",
+    "rol": "Rol",
+    "estado": "Estado",
+    "estadoActivo": "Activo",
+    "estadoDeshabilitado": "Deshabilitado",
+    "cancelar": "Cancelar",
+    "botonCrear": "Crear usuario",
+    "mensajeCreado": "Usuario creado correctamente",
+    "mensajeError": "Error al crear el usuario"
+  },
+  "notfound": {
+    "titulo": "Página no encontrada",
+    "descripcion": "La página que estás buscando no existe o ha sido movida.",
+    "boton": "Volver al inicio"
+  },
+  "perfil": {
+    "titulo": "Mi perfil",
+    "nombre": "Nombre",
+    "apellido1": "Primer apellido",
+    "apellido2": "Segundo apellido",
+    "correo": "Correo electrónico",
+    "rol": "Rol",
+    "cambiarContrasena": "Cambiar contraseña",
+    "actual": "Contraseña actual",
+    "nueva": "Nueva contraseña",
+    "guardar": "Guardar contraseña",
+    "guardado": "Contraseña actualizada correctamente",
+    "error": "Error al cambiar la contraseña. Verifica la actual."
+  },
+  "estadisticas": {
+    "titulo": "📊 Estadísticas Globales",
+    "exportarPDF": "📄 Exportar PDF",
+    "exportarExcel": "📊 Exportar Excel",
+    "graficoBarras": "Gráfico de Barras",
+    "graficoRecurso": "Gráfico de Recurso",
+    "detalle": "Detalle por recurso",
+    "recurso": "Recurso",
+    "total": "Total",
+    "cargando": "Cargando estadísticas...",
+    "accesoRestringido": "⛔ Acceso restringido",
+    "soloAdmins": "Esta sección solo está disponible para administradores."
+  },
+  
+    "recursos": {
+      "titulo": "🎯 Gestión de Recursos",
+      "buscarPlaceholder": "Buscar por nombre o descripción",
+      "limpiar": "Limpiar",
+      "nuevo": "+ Nuevo",
+      "tabla": {
+        "id": "ID",
+        "nombre": "Nombre",
+        "descripcion": "Descripción",
+        "ubicacion": "Ubicación",
+        "total": "Total",
+        "disponible": "Disponible",
+        "estado": "Estado",
+        "acciones": "Acciones"
+      },
+      "modal": {
+        "editar": "Editar Recurso",
+        "nuevo": "Nuevo Recurso",
+        "nombre": "Nombre",
+        "total": "Cantidad total",
+        "disponible": "Cantidad disponible",
+        "estado": "Estado",
+        "activo": "ACTIVO",
+        "deshabilitado": "DESHABILITADO",
+        "guardar": "Guardar",
+        "cancelar": "Cancelar"
+      },
+      "mensajes": {
+        "errorCampos": "Por favor, completa todos los campos correctamente.",
+        "guardado": "Cambios guardados correctamente.",
+        "errorGuardar": "Error al guardar el recurso.",
+        "confirmarEliminar": "¿Seguro que quieres eliminar este recurso?"
+      }
+    }
+  }
+  
+

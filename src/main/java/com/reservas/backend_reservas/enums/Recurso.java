@@ -1,0 +1,23 @@
+package com.reservas.backend_reservas.enums;
+
+public enum Recurso {
+    SALA_SAC,
+    SALON_PLENOS,
+    SALA_JUNTA_GOBIERNO_LOCAL,
+    SALA_GRANDE_PL1,
+    SALA_PEQUENA_PL1,
+    PLAZA_JUAN_URRUTIA,
+    PLAZA_SAN_ANTOM,
+    CARPA_10X20,
+    CARPA_5X5,
+    CARPA_3X2,
+    CARPA_3X3,
+    TABLERO_NORMAL,
+    TABLERO_PEQUENO,
+    CABALLETE,
+    BANCO,
+    ESCENARIO_PEQUENO,
+    ESCENARIO_GRANDE,
+    PODIUM,
+    SILLA
+}

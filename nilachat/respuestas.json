@@ -1,0 +1,299 @@
+[
+    {
+        "keywords": ["version", "version app", "vesion de nila", "versión nila"],
+        "respuesta": "La versión actual es la 1.1 - Versión de Nila es la 1.3"
+    },
+    {"keywords": ["que es lo que trae de nuevo esta version", "detalles de la version", "detalles", "nuevas funcionalidadades", "actualizacion", "actualizaciones"],
+      "respuesta": "La apliación en su nueva versión trae corrección de errores y la incorporación del nuevo chatbot de asistencia Nila mientras que la 1.3 de Nila trae corrección de errores y nuevas funcionalidades del chat; Ahora puedes generar documentos del historial de reservas del mes y al preguntar por un día en concreto te muestra las reservas de ese día"
+    },
+    {
+      "keywords": ["hola", "buenos dias", "buenas tardes"],
+      "respuesta": "¡Hola! ¿En qué puedo ayudarte?"
+    },
+    {
+        "keywords": ["como te llamas", "cual es tu nombre", "nombre"],
+        "respuesta": "Encantada 😊 me llamo Nila y soy tu asistente virtual estoy aqui para ayudarte en todo. Dime una duda que tengas y la resolvemos juntos"
+    },
+    {
+      "keywords": ["gracias", "muchas gracias"],
+      "respuesta": "¡De nada! 😊"
+    },
+    {
+      "keywords": ["adios", "hasta luego"],
+      "respuesta": "¡Hasta luego! Que tengas un buen día."
+    },
+    {
+      "keywords": ["inicio sesion", "iniciar sesion", "acceder"],
+      "respuesta": "Haz clic en 'Iniciar sesión' e introduce tu correo y contraseña."
+    },
+    {
+      "keywords": ["cambiar contraseña", "como cambio mi contraseña", "modificar contraseña", "recuperar contraseña", "contraseña", "como puedo cambiar mi contraseña"],
+      "respuesta":  "En la barra lateral del menú, haz clic en <b>Mi perfil</b>. A continuación, desplázate hacia abajo hasta la sección <b>Cambiar contraseña</b>, introduce tu nueva contraseña y pulsa en <b>Guardar contraseña</b> para que la modificación se aplique correctamente, o puedes hacer clic <a href='http://localhost:5173/perfil#cambiar-contrasena' target='_blank'>aquí para cambiar tu contraseña</a>."
+    },
+    {
+      "keywords": ["he olvidado mi contraseña", "olvidé mi contraseña", "no recuerdo mi contraseña"],
+      "respuesta": "Puedes recuperarla desde el botón '¿Olvidaste tu contraseña?' en la pantalla de inicio de sesión."
+    },
+    {
+      "keywords": ["cerrar sesion", "salir de la cuenta", "logout"],
+      "respuesta": "Haz clic en tu nombre o avatar y selecciona 'Cerrar sesión'."
+    },
+    {
+      "keywords": ["crear reserva", "como hago una reserva", "hacer reserva", "nueva reserva", "quiero hacer una reserva", "quiero realizar una reserva"],
+      "respuesta": "Ve al calendario o sección de reservas, selecciona fecha, hora y recurso, y luego haz clic en 'Confirmar'."
+    },
+    {
+      "keywords": ["ver mis reservas", "donde veo mis reservas", "consultar reservas", "mis reservas"],
+      "respuesta": "Consulta tus reservas en <a href='http://localhost:5173/mis-reservas' target='_blank'>haciendo click en el enlace</a>."
+    },
+    {
+      "keywords": ["modificar reserva", "editar reserva", "cambiar reserva"],
+      "respuesta": "Sí, accede a la reserva en 'Mis reservas' y selecciona 'Editar'."
+    },
+    {
+      "keywords": ["cancelar reserva", "eliminar reserva", "anular reserva"],
+      "respuesta": "Sí, entra a 'Mis reservas', haz clic en la que quieras cancelar y selecciona 'Cancelar'."
+    },
+    {
+      "keywords": ["limite reservas", "cuantas reservas puedo hacer"],
+      "respuesta": "Sí, dependiendo del recurso. Generalmente se permite una por día y usuario."
+    },
+    {
+      "keywords": ["recursos disponibles", "que puedo reservar", "tipos de recursos"],
+      "respuesta": "Puedes reservar salas, carpas, mesas, sillas, equipos y otros materiales municipales."
+    },
+    {
+      "keywords": ["horario disponible", "a que hora se puede reservar", "cuando puedo reservar"],
+      "respuesta": "De lunes a viernes de 08:00 a 22:00, y sábados de 09:00 a 14:00."
+    },
+    {
+      "keywords": ["disponibilidad hoy", "recursos para hoy"],
+      "respuesta": "Sí, revisa el calendario en la sección de reservas para ver la disponibilidad actual."
+    },
+    {
+      "keywords": ["contacto", "contactar", "ayuda", "soporte"],
+      "respuesta": "Puedes escribirnos desde la <a href='/contacto.html' target='_blank'>página de contacto</a>."
+    },
+    {
+      "keywords": ["terminos", "condiciones", "politicas"],
+      "respuesta": "Aquí tienes los <a href='/terminos.html' target='_blank'>Términos y Condiciones</a>."
+    },
+    {
+      "keywords": ["que es esta aplicacion", "para que sirve esta app"],
+      "respuesta": "Es una plataforma para gestionar reservas de espacios, materiales y tareas del ayuntamiento."
+    },
+    {
+      "keywords": ["la app es gratuita", "cuesta usar la app"],
+      "respuesta": "Sí, completamente gratuita para los ciudadanos registrados."
+    },
+    {
+      "keywords": ["recibir notificaciones", "activar notificaciones", "notificaciones"],
+      "respuesta": "Te llegarán por correo electrónico y puedes activarlas en Telegram si lo conectas en tu perfil."
+    },
+
+    {
+      "keywords": ["otros idiomas", "esta en ingles", "puedo cambiar idioma"],
+      "respuesta": "Actualmente está en español. Estamos trabajando en otros idiomas."
+    },
+    {
+      "keywords": ["actualizar datos", "cambiar mis datos", "editar perfil"],
+      "respuesta": "Ve a tu perfil y haz clic en 'Editar datos'."
+    },
+    {
+      "keywords": ["historial actividades", "ver historial", "mis actividades"],
+      "respuesta": "En el menú principal, en la sección 'Historial'."
+    },
+    {
+        "keywords": ["como creo un usuario", "nuevo usuario", "crear usuario"],
+        "respuesta": "Para crear un nuevo usuario , haz clic en <b>Inicio - Gestionar usuarios</b>, y en la parte de la derecha en el boton verde que pone  <b>Agreagar nuevo usuario</b>, rellenas el formulario con todos los datos y finalmente de das a <b>Crear usuario</b> para que el usuario se cree correctamente, o puedes hacer clic <a href='http://localhost:5173/usuarios/crear' target='_blank'>aquí para crear un nuevo usuario</a>. <b> Solo los administradores pueden acceder a esta función</b> la contraseña por defecto será 123Aa que luego deberá de cambiar "
+    },
+    {
+      "keywords":["quien ha creado esta applicacion", "creador", "desarrollado"],
+      "respuesta": "Esta aplicación ha sido creada por Aitor Cobo Fariñas"
+    },
+    {
+      "keywords": ["licencia", "uso", "terminos y condiciones"],
+      "respuesta": "El uso de esta aplicación es de uso exclusivo del ayuntamiento de Amurrio © 2025 Amurrioko Udala"
+    },
+
+  
+
+
+
+  
+    {
+      "keywords": ["bertsioa", "aplikazioaren bertsioa"],
+      "respuesta": "Uneko bertsioa 1.0 da"
+    },
+    {
+      "keywords": ["kaixo", "egun on", "arratsalde on"],
+      "respuesta": "Kaixo! Zertan lagundu zaitzaket?"
+    },
+    {
+      "keywords": ["nola deitzen zara", "zein da zure izena", "izena"],
+      "respuesta": "Pozten naiz 😊 Nila dut izena eta zure laguntzaile birtuala naiz. Lagundu nahi dizut. Esan zalantza bat eta elkarrekin konponduko dugu."
+    },
+    {
+      "keywords": ["eskerrik asko", "mila esker"],
+      "respuesta": "Ez horregatik! 😊"
+    },
+    {
+      "keywords": ["agur", "gero arte"],
+      "respuesta": "Laster arte! Egun ona izan."
+    },
+    {
+      "keywords": ["hasierako saioa", "saioa hasi", "sartu"],
+      "respuesta": "Egin klik 'Hasi saioa' botoian eta sartu zure posta eta pasahitza."
+    },
+    {
+      "keywords": ["pasahitza aldatu", "nola aldatu nire pasahitza", "pasahitza berria", "berreskuratu pasahitza", "nire pasahitza aldatu nahi dut"],
+      "respuesta": "Menuaren alboko barran, egin klik <b>Nire profila</b> atalean. Behera joan eta <b>Pasahitza aldatu</b> atala bilatu, sartu pasahitz berria eta egin klik <b>Aldaketak gorde</b> botoian. Edo <a href='http://localhost:5173/perfil#cambiar-contrasena' target='_blank'>hemen klikatu</a> pasahitza aldatzeko."
+    },
+    {
+      "keywords": ["pasahitza ahaztu dut", "ez dut pasahitza gogoratzen", "ahaztutako pasahitza"],
+      "respuesta": "'Pasahitza ahaztu duzu?' botoian klik eginez berreskuratu dezakezu hasierako saioaren pantailan."
+    },
+    {
+      "keywords": ["saioa itxi", "kontutik irten", "logout"],
+      "respuesta": "Egin klik zure izenean edo avatarrean eta aukeratu 'Saioa itxi'."
+    },
+    {
+      "keywords": ["erreserba sortu", "nola egiten da erreserba", "erreserba egin", "erreserba berria", "erreserba egin nahi dut"],
+      "respuesta": "Joan egutegira edo erreserben atalara, hautatu data, ordua eta baliabidea eta egin klik 'Berretsi' botoian."
+    },
+    {
+      "keywords": ["nire erreserbak ikusi", "non ikus ditzaket nire erreserbak", "erreserbak kontsultatu"],
+      "respuesta": "Zure erreserbak kontsulta ditzakezu <a href='/reservas.html' target='_blank'>hemen</a>."
+    },
+    {
+      "keywords": ["erreserba aldatu", "erreserba editatu"],
+      "respuesta": "Bai, sartu 'Nire erreserbak' atalera eta hautatu 'Editatu'."
+    },
+    {
+      "keywords": ["erreserba ezeztatu", "erreserba ezabatu", "erreserba baliogabetu"],
+      "respuesta": "Bai, 'Nire erreserbak' atalean sartu, aukeratu ezeztatu nahi duzun erreserba eta klikatu 'Ezeztatu'."
+    },
+    {
+      "keywords": ["erreserba muga", "zenbat erreserba egin ditzaket"],
+      "respuesta": "Bai, baliabidearen arabera. Oro har, eguneko erreserba bat erabiltzaile bakoitzeko."
+    },
+    {
+      "keywords": ["erreserbatzeko baliabideak", "zer erreserbatu dezaket", "baliabide motak"],
+      "respuesta": "Erreserbatu ditzakezu aretoak, karpak, mahaiak, aulkiak, ekipamenduak eta beste udal baliabide batzuk."
+    },
+    {
+      "keywords": ["ordutegi erabilgarria", "noiz erreserbatu dezaket", "erreserbak egiteko ordutegia"],
+      "respuesta": "Astelehenetik ostiralera 08:00etatik 22:00etara, eta larunbatetan 09:00etatik 14:00etara."
+    },
+    {
+      "keywords": ["gaurko erabilgarritasuna", "gaurko baliabideak"],
+      "respuesta": "Bai, egungo erabilgarritasuna ikusteko egutegia kontsultatu erreserben atalean."
+    },
+    {
+      "keywords": ["kontaktua", "laguntza", "soporte teknikoa"],
+      "respuesta": "Idatz iezaguzu <a href='/contacto.html' target='_blank'>kontakturako orrialdearen</a> bidez."
+    },
+    {
+      "keywords": ["terminoak", "baldintzak", "politika"],
+      "respuesta": "Hemen dituzue <a href='/terminos.html' target='_blank'>Baldintzak eta Kondizioak</a>."
+    },
+    {
+      "keywords": ["zer da aplikazio hau", "zer funtzio du aplikazioak"],
+      "respuesta": "Hau da udaletxeko espazioen, materialen eta lanen erreserbak kudeatzeko plataforma bat."
+    },
+    {
+      "keywords": ["doakoa da aplikazioa", "ordaindu behar da aplikazioa erabiltzeko"],
+      "respuesta": "Bai, guztiz doakoa da erregistratutako herritarrentzat."
+    },
+    {
+      "keywords": ["jakinarazpenak jaso", "jakinarazpenak aktibatu"],
+      "respuesta": "Posta elektronikoz jasoko dituzu, eta Telegram bidez ere aktibatu ditzakezu zure profilean konektatuta."
+    },
+    {
+      "keywords": ["beste hizkuntzak", "ingelesez dago", "hizkuntza aldatu"],
+      "respuesta": "Gaur egun gazteleraz dago. Beste hizkuntzetan ere lanean ari gara."
+    },
+    {
+      "keywords": ["datuak eguneratu", "nire datuak aldatu", "profila editatu"],
+      "respuesta": "Joan zure profilera eta klikatu 'Datuak editatu'."
+    },
+    {
+      "keywords": ["jardueren historia", "historiala ikusi", "nire ekintzak"],
+      "respuesta": "Menu nagusian, 'Historiala' atalean aurkituko duzu."
+    },
+    {
+      "keywords": ["nola sortu erabiltzaile bat", "erabiltzaile berria", "erabiltzaile berria sortu"],
+      "respuesta": "Erabiltzaile berri bat sortzeko, klikatu <b>Hasiera - Erabiltzaileak kudeatu</b> atalean, eta eskuinaldean dagoen botoi berdean <b>Erabiltzaile berria gehitu</b>. Bete formularioa eta klikatu <b>Erabiltzailea sortu</b>. Edo klikatu <a href='http://localhost:5173/usuarios/crear' target='_blank'>hemen erabiltzaile berria sortzeko</a>. <b>Funtzio hau soilik administratzaileek erabil dezakete</b>. Lehenetsitako pasahitza <b>123Aa</b> izango da, eta aldatu beharko duzu gero."
+    },
+    {
+      "keywords": ["nork sortu du aplikazio hau", "sortzailea", "garatzailea"],
+      "respuesta": "Aplikazio hau Aitor Cobo Fariñas-ek sortu du."
+    },
+    {
+      "keywords": ["lizentzia", "erabilera", "baldintzak eta terminoak"],
+      "respuesta": "Aplikazio hau Amurrioko Udalaren erabilera esklusiborako da © 2025 Amurrioko Udala"
+    },
+    
+  
+
+
+    {
+      "keywords": [
+        "que reservas hay en el dia de hoy",
+        "que reservas hay hoy",
+        "reservas para hoy",
+        "tengo reservas hoy",
+        "quiero ver las reservas de hoy",
+        "quiero ver las reservas de mañana",
+        "reservas del día",
+        "hay algo reservado para hoy",
+        "reservas para el",
+        "hay reservas el",
+        "que reservas hay el",
+        "ver reservas del",
+        "reservas del",
+        "que reservas hay para",
+        "listame las reservas para del",
+        "y las del"
+      ],
+      "respuesta": "__reserva_hoy__"
+    },
+    
+    {
+      "keywords": ["que idiomas hablas", "idiomas que hablas", "idiomas"],
+      "respuesta": ["Me programaron para hablar dos idiomas Euskera y Castellano"]
+    },
+    {
+      "keywords": ["genial", "perfecto"],
+      "respuesta": "me alegro que te haya podido ayudar en tu duda"
+    },
+    {
+      "keywords":["que es lo que puedes hacer", "cual es tu funcionalidad"],
+      "respuesta": "Mi función es ayudarte a resolver cualquier duda que tengas. Puedo mostrarte las reservas que hay en el día de hoy, puedo ayudarte a cambiar la contraseña, puedo ayudarte a crear una nueva reserva y mucho más solo tienes que preguntarme "
+    },
+    {
+      "keywords":["Nila"],
+      "respuesta":"Soy Nila tu asistente personal creada Por Aitor ¿En qué te puedo ayudar?"
+    },
+    {
+      "keywords":["Como voy al calendario", "como accedo al calendario", "calenadario", "consultar el calendario"],
+      "respuesta": "para consultar el calendario  <a href='http://localhost:5173/nueva' target='_blank'>haciendo click en el enlace</a>."
+    },
+    {
+      "keywords":["que puede hacer el administrador", "administrador", "funciones del administrador", "admin"],
+      "respuesta":"El administrador gestiona lo que es la aplicacion entera: Puede crear y gestionar usuarios, gestiona todas las reservas, tiene acceso al historial completo de todas las reservas, gestiona los recursos, aprueba las reservas que requieran una autorización y puede ver las estadisticas globares de todas las reservas  "
+    },
+    {
+      "keywords":["que puede hacer un ususario normal", "usuario", "que funciones tine un usuario normal", "usuario normal"],
+      "respuesta":"El usuario normal; puede hacer reservas y gestionar solo sus reservas, puede acceder al historial de reservas pero solo puede ver las suyas y puede acceder a la documentación"
+    },
+    {
+      "keywords":["cual es la contraseña por defecto al crear usuario", "primera contraseña", "contraseña al crear usuario", "contraseña por defecto", "he creado un nuevo usuario cual es su contraseña por defecto"],
+      "respuesta":"La contraseña por defecto es 123Aa la cual el usuario deberá de cambiarla en su perfil nada más hacer su primer inicio de sesión"
+    }
+
+
+
+    
+  
+  ]

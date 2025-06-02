@@ -1,0 +1,63 @@
+[
+    {
+      "pregunta": "como creo una reserva",
+      "respuesta": "Ve al calendario, selecciona una fecha en blanco y completa el formulario con los datos de la actividad."
+    },
+    {
+      "pregunta": "¿Qué significa el color blanco en el calendario?",
+      "respuesta": "Significa que ese recurso está disponible. Puedes reservar sin restricciones."
+    },
+    {
+      "pregunta": "¿Qué significa el color amarillo en el calendario?",
+      "respuesta": "El amarillo indica días especiales antes de una reserva con materiales. Solo un administrador puede autorizar nuevas reservas esos días."
+    },
+    {
+      "pregunta": "¿Qué significa el color rojo en el calendario?",
+      "respuesta": "Significa que el recurso ya no está disponible, porque está reservado o se incumple la antelación mínima."
+    },
+    {
+      "pregunta": "¿Puedo modificar mi reserva?",
+      "respuesta": "Sí, siempre que la reserva no haya empezado. Puedes modificar fecha, cantidad o ubicación."
+    },
+    {
+      "pregunta": "¿Puedo cancelar una reserva?",
+      "respuesta": "Sí, puedes cancelarla desde el historial o calendario. El recurso quedará libre nuevamente."
+    },
+    {
+      "pregunta": "¿Qué pasa si cancelo por error?",
+      "respuesta": "Tienes 5 minutos para recuperar la reserva cancelada desde el historial."
+    },
+    {
+      "pregunta": "¿Qué recursos puedo reservar?",
+      "respuesta": "Puedes reservar salas, plazas, carpas, escenarios, caballetes, tableros, sillas y pódiums."
+    },
+    {
+      "pregunta": "¿Cuánta antelación necesito para reservar materiales?",
+      "respuesta": "Debes reservar con al menos 7 días de antelación si usas carpas o materiales como sillas y tableros."
+    },
+    {
+      "pregunta": "¿Cuánta antelación necesito para reservar salas o plazas?",
+      "respuesta": "Al menos 1 día de antelación para salas y plazas."
+    },
+    {
+      "pregunta": "¿Quién puede aprobar reservas especiales?",
+      "respuesta": "Solo los administradores pueden aprobar reservas en días amarillos o fuera de norma."
+    },
+    {
+      "pregunta": "¿Qué permisos tiene un administrador?",
+      "respuesta": "Puede gestionar todas las reservas y usuarios, aprobar reservas especiales y generar estadísticas."
+    },
+    {
+      "pregunta": "¿Cómo cambio mi contraseña?",
+      "respuesta": "Entra en tu perfil y haz clic en 'Cambiar contraseña'. Debes usar una segura con letras y números."
+    },
+    {
+      "pregunta": "¿Qué pasa si reservo materiales para el sábado?",
+      "respuesta": "El lunes y martes previos quedarán en amarillo. Desde el miércoles, los recursos quedarán bloqueados."
+    },
+    {
+      "pregunta": "¿Puedo ver estadísticas?",
+      "respuesta": "Sí, puedes ver tus estadísticas personales. Solo los administradores ven las estadísticas globales."
+    }
+  ]
+  
